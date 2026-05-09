@@ -1,0 +1,14 @@
+Number of samples below 10% percentile: 879
+Number of samples above 10% percentile: 73327
+MST,	Total,	Benign,	Malignant
+1,	28106,	22857,	5249
+2,	36166,	29728,	6438
+3,	558,	515,	43
+4,	1662,	1436,	226
+5,	20877,	17707,	3170
+6,	23231,	19155,	4076
+7,	7069,	5944,	1125
+8,	450,	304,	146
+9,	166,	56,	110
+10,	144,	50,	94
+Finished in 220 seconds.
